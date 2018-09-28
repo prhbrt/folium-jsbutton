@@ -4,7 +4,13 @@ Add a button that executes JavaScript. Add's EasyButton and FontAwesome to the m
 
 # Installation
 
-    pip3 install git+https://github.com/prinsherbert/folium-jsbutton.git
+    pip install folium-jsbutton
+
+or from git
+
+    pip install git+https://github.com/prinsherbert/folium-jsbutton.git
+
+
 
 # Example
 
